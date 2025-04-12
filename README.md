@@ -14,4 +14,4 @@
 
 # Contact
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:idhts2081@gmail.com)](idhts2081@gmail.com) [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)](hello_w0r1d)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:idhts2081@gmail.com)](mail.md) [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)](discord.md)
